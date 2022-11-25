@@ -1,0 +1,211 @@
+[
+  {
+    tittle: '  Surrey school pupil dies of bacterial infection with another in hospital ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/25/surrey-school-pupil-dies-of-bacterial-infection-with-another-in-hospital-report'
+  },
+  {
+    tittle: '  Strike action: who is taking action, and when ',
+    url: 'https://www.theguardian.com/politics/2022/nov/25/strike-action-who-is-walking-out-and-when'
+  },
+  {
+    tittle: '  Humberside police judged ‘outstanding’ five years after being ranked as failing ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/25/humberside-police-judged-outstanding-five-years-after-being-ranked-as-failing'
+  },
+  {
+    tittle: '  Meta seeks government protection from Rees-Mogg’s EU law bonfire ',
+    url: 'https://www.theguardian.com/technology/2022/nov/25/meta-facebook-seeks-government-protection-from-jacob-rees-mogg-eu-law-bonfire'
+  },
+  {
+    tittle: '  Demand for rental homes in UK up by 23% in a year, as rents hit record high ',
+    url: 'https://www.theguardian.com/money/2022/nov/25/demand-for-rental-homes-uk-up-23-per-cent-in-a-year-as-rents-hit-record-high'
+  },
+  {
+    tittle: '  ‘Second spring’ as UK experiences record above-average temperatures ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/25/second-spring-as-uk-experiences-record-above-average-temperatures'
+  },
+  {
+    tittle: '  British man to be deported from Denmark under post-Brexit rules  ',
+    url: 'https://www.theguardian.com/politics/2022/nov/25/british-man-deported-denmark-post-brexit-rules'
+  },
+  {
+    tittle: '  Nurses across UK to strike for first time on 15 and 20 December ',
+    url: 'https://www.theguardian.com/society/2022/nov/25/nurses-across-uk-to-strike-for-first-time-on-15-and-20-december'
+  },
+  {
+    tittle: '  UK foreign secretary visits Kyiv to reaffirm support for Ukraine ',
+    url: 'https://www.theguardian.com/politics/2022/nov/25/uk-foreign-secretary-visits-kyiv-reaffirm-support-ukraine'
+  },
+  {
+    tittle: '  More than a third of UK school support staff helping pupils pay for food – survey ',
+    url: 'https://www.theguardian.com/education/2022/nov/25/more-than-a-third-of-uk-school-support-staff-helping-pupils-pay-for-food-survey'        
+  },
+  {
+    tittle: '  ‘Point of no return’: Chris Packham leads calls for Rishi Sunak to attend Cop15 ',
+    url: 'https://www.theguardian.com/environment/2022/nov/25/chris-packham-leads-call-for-pm-to-attend-cop15-aoe'
+  },
+  {
+    tittle: '   Nurses to strike for two days as December disruption deepens ',
+    url: 'https://www.theguardian.com/business/2022/nov/24/nurses-likely-to-join-postal-education-and-rail-staff-in-pre-christmas-strikes'
+  },
+  {
+    tittle: '  Online safety bill will criminalise ‘downblousing’ and ‘deepfake’ porn ',
+    url: 'https://www.theguardian.com/technology/2022/nov/24/online-safety-bill-to-return-to-parliament-next-month'
+  },
+  {
+    tittle: '  Watchdog apologises for saying MPs’ Christmas party costs are claimable ',
+    url: 'https://www.theguardian.com/politics/2022/nov/24/watchdog-apologises-for-saying-mps-christmas-party-costs-are-claimable'
+  },
+  {
+    tittle: '  Labour will show ‘zero tolerance’ to violence against women, says Starmer ',
+    url: 'https://www.theguardian.com/politics/2022/nov/24/keir-starmer-pledges-zero-tolerance-violence-women-girls'
+  },
+  {
+    tittle: '  Jeremy Hunt’s plans likely to degrade public services, says report ',
+    url: 'https://www.theguardian.com/society/2022/nov/24/jeremy-hunts-plans-likely-to-degrade-public-services-says-report'
+  },
+  {
+    tittle: '  ‘Desensitised’ ex-IS followers remain threats, Shamima Begum hearing told ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/24/desensitised-ex-is-followers-remain-threats-shamima-begum-hearing-told'
+  },
+  {
+    tittle: '  Johnson and Truss join rebels against Sunak keeping new onshore wind ban ',
+    url: 'https://www.theguardian.com/environment/2022/nov/24/boris-johnson-and-liz-truss-join-rebels-against-rishi-sunak-keeping-new-onshore-wind-ban'
+  },
+  {
+    tittle: '  How UK government plans to advise households to reduce energy bills ',
+    url: 'https://www.theguardian.com/business/2022/nov/24/how-uk-government-plans-to-advise-households-to-reduce-energy-bills'
+  },
+  {
+    tittle: '  Scottish independence: supreme court ‘no’ leaves Sturgeon looking for solutions ',
+    url: 'https://www.theguardian.com/politics/2022/nov/23/scottish-independence-supreme-court-no-leaves-sturgeon-looking-for-solutions'
+  },
+  {
+    tittle: '  What is the supreme court’s Scottish independence ruling about? ',
+    url: 'https://www.theguardian.com/politics/2022/nov/23/what-is-the-supreme-courts-scottish-independence-ruling-about'
+  },
+  {
+    tittle: '  Keir Starmer walks fine line in shifting Labour’s stance on immigration ',
+    url: 'https://www.theguardian.com/politics/2022/nov/23/keir-starmer-walks-fine-line-shifting-labour-stance-immigration'
+  },
+  {
+    tittle: '  Minister behaving badly? Whitehall ponders its murky complaints process ',
+    url: 'https://www.theguardian.com/politics/2022/nov/22/minister-behaving-badly-whitehall-ponders-its-murky-complaints-process'
+  },
+  {
+    tittle: '  Immigration is still the nettle preventing Tory detente with business ',
+    url: 'https://www.theguardian.com/business/2022/nov/21/immigration-is-still-the-nettle-preventing-tory-detente-with-business'
+  },
+  {
+    tittle: '  Brexit: who wants a Swiss-style EU deal and what would it look like?  ',
+    url: 'https://www.theguardian.com/politics/2022/nov/20/brexit-who-wants-a-swiss-style-eu-deal-and-what-would-it-look-like'
+  },
+  {
+    tittle: '  How Britain’s economic woes stack up against Europe’s – a close look at the figures ',
+    url: 'https://www.theguardian.com/business/2022/nov/19/britain-economic-woes-europe-figures-uk-inflation'
+  },
+  {
+    tittle: '  Sunak burnishes image on world stage – but at home problems mount  ',
+    url: 'https://www.theguardian.com/politics/2022/nov/18/rishi-sunak-burnishes-image-world-stage-at-home-problems-mount'
+  },
+  {
+    tittle: '  How the autumn statement brought back the ‘squeezed middle’ ',
+    url: 'https://www.theguardian.com/business/2022/nov/18/how-the-autumn-statement-brought-back-the-squeezed-middle'
+  },
+  {
+    tittle: '  French team to build replica of William the Conqueror’s warship ',
+    url: 'https://www.theguardian.com/world/2022/nov/25/french-team-build-replica-william-conqueror-warship'
+  },
+  {
+    tittle: '  Jonnie Irwin says he was axed as A Place in the Sun presenter due to terminal cancer ',
+    url: 'https://www.theguardian.com/tv-and-radio/2022/nov/24/jonnie-irwin-says-he-was-axed-as-a-place-in-the-sun-presenter-due-to-terminal-cancer'
+  },
+  {
+    tittle: '  Britain is a ‘bifurcated place nowadays’, says Julian Barnes ',
+    url: 'https://www.theguardian.com/books/2022/nov/24/britain-is-a-bifurcated-place-nowadays-says-julian-barnes'
+  },
+  {
+    tittle: '  Tamara Rojo wades into bitter row over London arts funding  ',
+    url: 'https://www.theguardian.com/culture/2022/nov/24/tamara-rojo-wades-into-bitter-row-over-london-arts-funding'
+  },
+  {
+    tittle: '  Renowned architect joins calls to save Kurt Schwitters’ Merz Barn ',
+    url: 'https://www.theguardian.com/artanddesign/2022/nov/24/renowned-architect-joins-calls-to-save-kurt-schwitters-merz-barn-daniel-libeskind'   
+  },
+  {
+    tittle: '  Centrala warns of ‘devastating’ impact of Arts Council funding loss ',
+    url: 'https://www.theguardian.com/culture/2022/nov/24/centrala-warns-of-devastating-impact-of-arts-council-funding-loss'
+  },
+  {
+    tittle: '  We’re not all heathens in Manchester, Andy Burnham tells ENO ',
+    url: 'https://www.theguardian.com/music/2022/nov/23/andy-burnham-enters-eno-row-manchester-arts-council'
+  },
+  {
+    tittle: '  I was sent for therapy to get rid of my working-class accent ',
+    url: 'https://www.theguardian.com/inequality/2022/nov/24/i-was-sent-for-therapy-to-get-rid-of-my-working-class-accent'
+  },
+  {
+    tittle: '  Record number of UK university staff striking over pay, says union ',
+    url: 'https://www.theguardian.com/education/2022/nov/24/more-than-70000-uk-university-staff-go-on-strike-over-pay-and-pensions'
+  },
+  {
+    tittle: '  Schools close across Scotland as teachers go on strike over pay ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/24/schools-close-across-scotland-teachers-strike-pay'
+  },
+  {
+    tittle: '  ‘They want toys to get their children into Harvard’: have we been getting playthings all wrong?  ',
+    url: 'https://www.theguardian.com/lifeandstyle/2022/nov/24/have-toys-got-too-brainy-how-playthings-became-teaching-aids-young-children'
+  },
+  {
+    tittle: '  Nadia Sawalha reveals she has been diagnosed with ADHD in late 50s ',
+    url: 'https://www.theguardian.com/society/2022/nov/24/nadia-sawalha-reveals-she-has-been-diagnosed-with-adhd'
+  },
+  {
+    tittle: '  Series of opportunities missed to protect Logan Mwangi, review finds ',
+    url: 'https://www.theguardian.com/society/2022/nov/24/logan-mwangi-review-highlights-systemic-child-protection-issues'
+  },
+  {
+    tittle: '  Michelle Mone PPE firm revelations prompt anger in Commons ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/24/michelle-mone-ppe-firm-revelations-prompt-anger-in-commons'
+  },
+  {
+    tittle: '  ‘An explosion’: what is behind the rise in girls questioning their gender identity? ',
+    url: 'https://www.theguardian.com/society/2022/nov/24/an-explosion-what-is-behind-the-rise-in-girls-questioning-their-gender-identity'
+  },
+  {
+    tittle: '  Tens of thousands of homes unsafe, says Michael Gove ',
+    url: 'https://www.theguardian.com/society/2022/nov/24/tens-of-thousands-of-homes-unsafe-says-michael-gove'
+  },
+  {
+    tittle: '  Waterside homes for sale – in pictures ',
+    url: 'https://www.theguardian.com/money/gallery/2022/nov/25/waterside-homes-for-sale-in-pictures'
+  },
+  {
+    tittle: "  Rail strikes to continue, says Mick Lynch after 'positive meeting' with transport secretary – video ",
+    url: 'https://www.theguardian.com/uk-news/video/2022/nov/24/rail-strikes-to-continue-says-mick-lynch-after-positive-meeting-with-transport-secretary-video'
+  },
+  {
+    tittle: "  Angela Rayner asks urgent question on government 'VIP lane' for PPE contracts – video ",
+    url: 'https://www.theguardian.com/uk-news/video/2022/nov/24/angela-rayner-urgent-question-government-vip-lane-ppe-contracts-video'
+  },
+  {
+    tittle: '  An illuminated cathedral and white reindeer calves: Thursday’s best photos ',
+    url: 'https://www.theguardian.com/news/gallery/2022/nov/24/an-illuminated-cathedral-and-white-reindeer-calves-thursdays-best-photos'
+  },
+  {
+    tittle: '  Michael Gove: I referred offers of help with PPE to the appropriate civil service channels – video ',
+    url: 'https://www.theguardian.com/politics/video/2022/nov/24/michael-gove-referred-offers-help-ppe-appropriate-civil-service-channels-video'    
+  },
+  {
+    tittle: '  ‘Second spring’ as UK experiences record above-average temperatures ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/25/second-spring-as-uk-experiences-record-above-average-temperatures'
+  },
+  {
+  {
+    tittle: '  ‘Desensitised’ ex-IS followers remain threats, Shamima Begum hearing told ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/24/desensitised-ex-is-followers-remain-threats-shamima-begum-hearing-told'
+  },
+  {
+    tittle: '  Met police officer David Carrick charged with six more counts of rape ',
+    url: 'https://www.theguardian.com/uk-news/2022/nov/24/met-police-officer-david-carrick-53-charges-27-counts-of'
+  }
+]
